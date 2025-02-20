@@ -56,95 +56,86 @@
 
 % Header
 \begin{center}
-    {{\fontsize{18pt}{22pt} \selectfont \textbf{Gaurab Chhetri}}} \\[3pt]
+    {{\fontsize{18pt}{22pt} \selectfont \textbf{Amul Poudel}}} \\[3pt]
     \small
     \begin{tabular}{c}
         San Marcos, TX $|$
-        \faGithub\ \href{https://github.com/gauravfs-14}{gauravfs-14} $|$
-        \faLinkedin\ \href{https://www.linkedin.com/in/gaurabchhetri/}{gaurabchhetri} $|$
-        \faGlobe\ \href{https://gaurabchhetri.com.np}{gaurabchhetri.com.np} $|$
-        \faEnvelope\ \href{mailto:contact@gaurabchhetri.com.np}{contact@gaurabchhetri.com.np} $|$
-         +1 (512) 665-1264
+        \faGithub\ \href{https://github.com/Amul-byte}{Amul-byte} $|$
+        \faLinkedin\ \href{https://www.linkedin.com/in/amulpoudel/}{amulpoudel} $|$
+        \faEnvelope\ \href{mailto:pramulchettri@gmail.com}{pramulchettri@gmail.com} $|$
+         +1 (737) 335 9440
     \end{tabular}
 \end{center}
+
+%----------- EDUCATION -----------
+\section{Education}
+\resumeSubHeadingListStart
+    \resumeSubheading{Texas State University}{San Marcos, TX}{Bachelor of Science in Computer Science (GPA: 4.0)}{Expected: May 2028}
+\resumeSubHeadingListEnd
 
 %----------- SKILLS -----------
 \section{Skills}
 \resumeSubHeadingListStart
-    \resumeSubItem{\textbf{Languages:} \ JavaScript, TypeScript, HTML, CSS, PHP, SQL, Python, R, C/C++, Markdown}
-    \resumeSubItem{\textbf{Frameworks \& Tools:} \ React.js, Next.js, React Native, Expo, Express.js, Node.js, REST APIs, MySQL, MongoDB, Prisma, Tailwind CSS, Git, GitHub, Linux, WordPress}
-    \resumeSubItem{\textbf{Other Skills:} \ SEO, Digital Marketing, Data Analysis, Data Visualization, CloudFlare, Netlify, Domain Management, IT Support, System Administration, Graphic Design, Video Editing, Figma, GIMP, Canva}
+    \resumeSubItem{\textbf{Languages:} \ JavaScript, HTML, CSS, Python, C/C++}
+    \resumeSubItem{\textbf{Frameworks \& Tools:} \ Django, Git, GitHub, Linux, WordPress}
+    \resumeSubItem{\textbf{Other Skills:} \ Social Media Handeling, Digital Marketing, IT Support, System Administration, Video Editing, Canva}
 \resumeSubHeadingListEnd
 
-
-%----------- PROJECTS -----------
-\section{Projects}
-\resumeSubHeadingListStart
-    \resumeProjectHeading{\href{https://github.com/gauravfs-14/bhanai}{Bhanai Programming Language}}{}
-    \resumeItemListStart
-        \resumeItem{Developed \textbf{Bhanai}, a Nepali-inspired programming language with custom syntax and execution capabilities.}
-        \resumeItem{Published the package on NPM, enabling easy global installation and execution.}
-    \resumeItemListEnd
-    
-    \resumeProjectHeading{\href{https://ait-lab.vercel.app}{AIT Lab Website}}{}
-    \resumeItemListStart
-        \resumeItem{Built an \textbf{academic research website} for Texas State University using Next.js with modern web development practices.}
-        \resumeItem{Achieved a \textbf{90+ Lighthouse SEO score} by optimizing SEO, accessibility, and performance.}
-    \resumeItemListEnd
-
-    \resumeProjectHeading{\href{https://photos.app.goo.gl/wxw7pM8xo3CacDHM9}{Custom Raspberry Pi Computer}}{}
-    \resumeItemListStart
-        \resumeItem{Designed and assembled a \textbf{custom Raspberry Pi-based mini computer} for multipurpose educational use.}
-        \resumeItem{Configured for \textbf{penetration testing, Linux learning, and programming education}.}
-    \resumeItemListEnd
-\resumeSubHeadingListEnd
 
 %----------- EXPERIENCE -----------
 \section{Experience}
 \resumeSubHeadingListStart
-    \resumeSubheading{Texas State University}{San Marcos, TX}{Undergraduate Research Assistant}{Oct 2024 – Present}
+    \resumeSubheading{Texas State University}{San Marcos, TX}{Assistant to the Director of Facility Management}{Oct 2024 – Present}
     \resumeItemListStart
-        \resumeItem{Developed \textbf{5+ analytical tools} and \textbf{5+ visualization dashboards} to improve data interpretation for AI research.}
-        \resumeItem{Processed and analyzed \textbf{large datasets (20k+ entries)} using R and Python, improving research efficiency by \textbf{11\%}.}
-        \resumeItem{Contributed to \textbf{2+ academic papers} by conducting in-depth data analysis and visualization.}
+        \resumeItem{Managed operations for sports and university events, including baseball, softball, cheer, commencement ceremonies, basketball, football, and soccer.}
+        \resumeItem{Developed expertise in logistics, facility operations, and crowd management, ensuring smooth event execution.}
     \resumeItemListEnd
-    \resumeSubheading{ComputeNepal}{Pokhara, Nepal}{Founder and Developer}{May 2021 – Present}
+    
+    \resumeSubheading{INKK Engineering Solution Pvt. Ltd.}{Lalitpur, Nepal}{Engineering and 3D Printing Intern}{Oct 2023 – Feb 2025}
     \resumeItemListStart
-        \resumeItem{Grew \href{https://computenepal.com}{ComputeNepal.com} to \textbf{200+ technical articles}, increasing engagement by \textbf{67\%}.}
-        \resumeItem{Optimized SEO strategies, boosting \textbf{organic traffic by 300\%} within a year.}
-        \resumeItem{Launched \textbf{5+ interactive learning platforms} (quizzes, tutorials, and coding challenges), improving user retention by \textbf{38\%}.}
+        \resumeItem{Researched and implemented FDM 3D printing technologies, optimizing print quality and improving material efficiency.}
+        \resumeItem{Managed and maintained 3D printers, troubleshooting hardware issues and ensuring smooth prototyping and production.}
     \resumeItemListEnd
-    \resumeSubheading{Satmarga Education Consultancy}{Pokhara, Nepal}{IT Officer}{Feb 2024 – Jul 2024}
+    
+    \resumeSubheading{Waling Innovation Centre}{Syangja, Nepal}{AI and Robotics Club Member}{Feb 2020 – Feb 2021}
     \resumeItemListStart
-        \resumeItem{Led website and IT infrastructure management, reducing downtime by \textbf{50\%}.}
-        \resumeItem{Designed and executed \textbf{targeted social media campaigns}, increasing \textbf{followers by 1,000+} within 2 months.}
-        \resumeItem{Created and optimized digital content, leading to a \textbf{35\% increase} in customer engagement.}
+        \resumeItem{Developed and implemented AI-driven robotics and automation projects, focusing on real-world machine learning systems.}
+        \resumeItem{Researched and optimized robotic motion algorithms, enhancing sensor-based navigation and improving system efficiency.}
     \resumeItemListEnd
 \resumeSubHeadingListEnd
 
-%----------- PUBLICATIONS -----------
-\section{Publications}
+%----------- EXTRACURRICULAR ACTIVITIES -----------
+\section{Extracurricular Activities}
 \resumeSubHeadingListStart
-    \resumeSubheading{\href{https://myrepublica.nagariknetwork.com/news/online-gaming-and-child-safety/}{Online Gaming and Child Safety}}{Pokhara, Nepal}{República}{Apr 2023}
+    \resumeSubheading{Nepal Mega College}{Kathmandu, Nepal}{Research Leader}{Jan 2023 – Feb 2023}
     \resumeItemListStart
-        \resumeItem{Published an op-ed discussing the impact of online gaming on child safety and preventive measures.}
+        \resumeItem{Led research on how computer technology can enhance hydropower efficiency and sustainability.}
+        \resumeItem{Collaborated with a team to analyze and propose solutions for integrating digital systems in hydropower plants.}
+    \resumeItemListEnd
+
+    \resumeSubheading{Bal Bidhya Vikas Sec. School}{Syangja, Nepal}{House Mentor and Program Manager}{Aug 2020 – Aug 2021}
+    \resumeItemListStart
+        \resumeItem{Organized academic and extracurricular programs, mentoring students in grades 1-8 and identifying top performers.}
+        \resumeItem{Implemented student engagement initiatives to promote leadership, teamwork, and academic excellence.}
+    \resumeItemListEnd
+
+    \resumeSubheading{Seventh Waling Fair}{Syangja, Nepal}{School Representative}{Jan 2018 – Mar 2018}
+    \resumeItemListStart
+        \resumeItem{Presented a technology-based project to professors and industry professionals, receiving recognition from the mayor.}
+        \resumeItem{Engaged with visitors to explain project concepts, showcasing innovation and communication skills.}
     \resumeItemListEnd
 \resumeSubHeadingListEnd
 
 %----------- HONORS & AWARDS -----------
 \section{Honors \& Awards}
 \resumeSubHeadingListStart
-    \resumeSubheading{Best in Development/Coding - Hackacat Nano 2024}{San Marcos, TX}{Organized by: ACM AI @ TXST}{Nov 2024}
+    \resumeSubheading{Dean’s List - Texas State University}{San Marcos, TX}{Awarded for Academic Excellence (4.0 GPA)}{2024 – Present}
     \resumeItemListStart
-        \resumeItem{Developed RUMI: An AI-powered roommate finder using React, Node.js, and OpenAI in just 7hours.}
+        \resumeItem{Recognized for maintaining a \textbf{4.0 GPA}, demonstrating exceptional academic performance and dedication.}
+        \resumeItem{Achieved \textbf{Dean’s List distinction} by excelling in coursework and consistently ranking among the top students.}
     \resumeItemListEnd
 \resumeSubHeadingListEnd
 
-%----------- EDUCATION -----------
-\section{Education}
-\resumeSubHeadingListStart
-    \resumeSubheading{Texas State University}{San Marcos, TX}{Bachelor of Science in Computer Science (GPA: 4.0) | Dean's List Receptionist}{Aug 2024 – May 2029}
-\resumeSubHeadingListEnd
 
 %----------- LANGUAGES -----------
 \section{Languages}
