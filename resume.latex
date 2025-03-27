@@ -45,7 +45,7 @@
 \newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
 \renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
 
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]} 
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
 \newcommand{\resumeItemListStart}{\begin{itemize}}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
@@ -61,6 +61,7 @@
     \begin{tabular}{c}
         San Marcos, TX $|$
         \faGithub\ \href{https://github.com/Amul-byte}{Amul-byte} $|$
+        \faGlobe\ \href{https://amulpoudel.vercel.app/}{Portfolio} $|$
         \faLinkedin\ \href{https://www.linkedin.com/in/amulpoudel/}{amulpoudel} $|$
         \faEnvelope\ \href{mailto:pramulchettri@gmail.com}{pramulchettri@gmail.com} $|$
          +1 (737) 335 9440
@@ -77,65 +78,64 @@
 \section{Skills}
 \resumeSubHeadingListStart
     \resumeSubItem{\textbf{Languages:} \ JavaScript, HTML, CSS, Python, C/C++}
-    \resumeSubItem{\textbf{Frameworks \& Tools:} \ Django, Git, GitHub, Linux, WordPress}
-    \resumeSubItem{\textbf{Other Skills:} \ Social Media Handeling, Digital Marketing, IT Support, System Administration, Video Editing, Canva}
+    \resumeSubItem{\textbf{Frameworks \& Tools:} \ Django, Git, GitHub, Linux, WordPress, Pandas, Matplotlib, scikit-learn}
+    \resumeSubItem{\textbf{Data Science / ML:} \ Machine Learning, Data Cleaning, Exploratory Data Analysis, Regression Analysis, Model Evaluation, \newline Data Visualization}
+    \resumeSubItem{\textbf{Other Skills:} \ Social Media Handling, Digital Marketing, IT Support, System Administration, Video Editing, Canva, Public Speaking, Time Management}
 \resumeSubHeadingListEnd
-
 
 %----------- EXPERIENCE -----------
 \section{Experience}
 \resumeSubHeadingListStart
-    \resumeSubheading{Texas State University}{San Marcos, TX}{Assistant to the Director of Facility Management}{Oct 2024 – Present}
+    \resumeSubheading{Texas State University}{San Marcos, TX}{Assistant to the Director of Facility Management}{Oct 2024 -- Present}
     \resumeItemListStart
         \resumeItem{Managed operations for sports and university events, including baseball, softball, cheer, commencement ceremonies, basketball, football, and soccer.}
         \resumeItem{Developed expertise in logistics, facility operations, and crowd management, ensuring smooth event execution.}
     \resumeItemListEnd
-    
-    \resumeSubheading{INKK Engineering Solution Pvt. Ltd.}{Lalitpur, Nepal}{Engineering and 3D Printing Intern}{Oct 2023 – Feb 2025}
+
+    \resumeSubheading{INKK Engineering Solution Pvt. Ltd.}{Lalitpur, Nepal}{Engineering and 3D Printing Intern}{Oct 2023 -- Feb 2025}
     \resumeItemListStart
         \resumeItem{Researched and implemented FDM 3D printing technologies, optimizing print quality and improving material efficiency.}
         \resumeItem{Managed and maintained 3D printers, troubleshooting hardware issues and ensuring smooth prototyping and production.}
     \resumeItemListEnd
-    
-    \resumeSubheading{Waling Innovation Centre}{Syangja, Nepal}{AI and Robotics Club Member}{Feb 2020 – Feb 2021}
+
+    \resumeSubheading{Waling Innovation Centre}{Syangja, Nepal}{AI and Robotics Club Member}{Feb 2020 -- Feb 2021}
     \resumeItemListStart
         \resumeItem{Developed and implemented AI-driven robotics and automation projects, focusing on real-world machine learning systems.}
         \resumeItem{Researched and optimized robotic motion algorithms, enhancing sensor-based navigation and improving system efficiency.}
     \resumeItemListEnd
 \resumeSubHeadingListEnd
 
-%----------- EXTRACURRICULAR ACTIVITIES -----------
-\section{Extracurricular Activities}
+%----------- PROJECTS -----------
+\section{Projects}
 \resumeSubHeadingListStart
-    \resumeSubheading{Nepal Mega College}{Kathmandu, Nepal}{Research Leader}{Jan 2023 – Feb 2023}
+    \resumeSubheading{Experano - Experience Sharing Platform}{Web Application}{GitHub: \href{https://experano.vercel.app/}{experano.vercel.app}}{2025}
     \resumeItemListStart
-        \resumeItem{Led research on how computer technology can enhance hydropower efficiency and sustainability.}
-        \resumeItem{Collaborated with a team to analyze and propose solutions for integrating digital systems in hydropower plants.}
+        \resumeItem{Built a full-stack experience-sharing web platform enabling users to post, view, and search categorized experiences.}
+        \resumeItem{Used modern web technologies like React, Node.js, and Firebase for frontend, backend, and authentication.}
     \resumeItemListEnd
 
-    \resumeSubheading{Bal Bidhya Vikas Sec. School}{Syangja, Nepal}{House Mentor and Program Manager}{Aug 2020 – Aug 2021}
+    \resumeSubheading{Sea Level Predictor}{Machine Learning Project}{GitHub: \href{https://github.com/Amul-byte/sea-level-predictor-using-pyhton-libraries}{Amul-byte/sea-level-predictor}}{2025}
     \resumeItemListStart
-        \resumeItem{Organized academic and extracurricular programs, mentoring students in grades 1-8 and identifying top performers.}
-        \resumeItem{Implemented student engagement initiatives to promote leadership, teamwork, and academic excellence.}
+        \resumeItem{Created a machine learning model using regression techniques to predict future sea levels based on NOAA data.}
+        \resumeItem{Visualized trends using Matplotlib and Pandas to support climate awareness and data-driven insights.}
     \resumeItemListEnd
-
-    \resumeSubheading{Seventh Waling Fair}{Syangja, Nepal}{School Representative}{Jan 2018 – Mar 2018}
+        \resumeSubheading{Student Performance Predictor}{Machine Learning Project}{GitHub: \href{https://github.com/Amul-byte/StudentPerformancePrediction}{Amul-byte/Student-Performance-Predictor}}{2025}
     \resumeItemListStart
-        \resumeItem{Presented a technology-based project to professors and industry professionals, receiving recognition from the mayor.}
-        \resumeItem{Engaged with visitors to explain project concepts, showcasing innovation and communication skills.}
+        \resumeItem{Built a classification model to predict students' final grades based on socioeconomic and academic attributes.}
+        \resumeItem{Performed feature engineering, model training, and evaluation using scikit-learn and visualized results with Matplotlib.}
     \resumeItemListEnd
 \resumeSubHeadingListEnd
+
 
 %----------- HONORS & AWARDS -----------
 \section{Honors \& Awards}
 \resumeSubHeadingListStart
-    \resumeSubheading{Dean’s List - Texas State University}{San Marcos, TX}{Awarded for Academic Excellence (4.0 GPA)}{2024 – Present}
+    \resumeSubheading{Dean's List - Texas State University}{San Marcos, TX}{Awarded for Academic Excellence (4.0 GPA)}{2024 -- Present}
     \resumeItemListStart
         \resumeItem{Recognized for maintaining a \textbf{4.0 GPA}, demonstrating exceptional academic performance and dedication.}
-        \resumeItem{Achieved \textbf{Dean’s List distinction} by excelling in coursework and consistently ranking among the top students.}
+        \resumeItem{Achieved \textbf{Dean's List distinction} by excelling in coursework and consistently ranking among the top students.}
     \resumeItemListEnd
 \resumeSubHeadingListEnd
-
 
 %----------- LANGUAGES -----------
 \section{Languages}
