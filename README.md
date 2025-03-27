@@ -4,7 +4,7 @@ This repository contains my resume written in LaTeX. The resume is **automatical
 
 ## 📄 View My Resume
 
-[📄 Click here to view/download the latest resume (PDF)](https://gauravfs-14.github.io/resume/resume/resume.pdf)
+[📄 Click here to view/download the latest resume (PDF)](https://Amul-byte.github.io/resume/resume/resume.pdf)
 
 ---
 
@@ -21,11 +21,11 @@ This repository contains my resume written in LaTeX. The resume is **automatical
 3. **Public Hosting via GitHub Pages**:
    - The latest resume is accessible at:
      ```
-     https://gauravfs-14.github.io/resume/resume/resume.pdf
+     https://Amul-byte.github.io/resume/resume/resume.pdf
      ```
    - Preview the resume in web at:
      ```
-     https://gauravfs-14.github.io/resume
+     https://Amul-byte.github.io/resume
      ```
 
 ---
@@ -70,4 +70,4 @@ This ensures that older versions remain accessible.
 
 ---
 
-🚀 **Maintained by [Gaurab Chhetri](https://github.com/gauravfs-14)**
+🚀 **Maintained by [Amul Poudel](https://github.com/Amul-byte)**
