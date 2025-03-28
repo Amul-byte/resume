@@ -78,7 +78,7 @@
 \section{Skills}
 \resumeSubHeadingListStart
     \resumeSubItem{\textbf{Languages:} \ HTML, CSS, Python, C/C++}
-    \resumeSubItem{\textbf{Frameworks \& Tools:} \ Django, Git, GitHub, Linux, WordPress, Pandas, Matplotlib, scikit-learn}
+    \resumeSubItem{\textbf{Frameworks \& Tools:} \ Django, Git, GitHub, Linux, WordPress, Pandas, Matplotlib, Scikit-Learn, NumPy}
     \resumeSubItem{\textbf{Data Science / ML:} \ Machine Learning, Data Cleaning, Exploratory Data Analysis, Regression Analysis, Model Evaluation, \newline Data Visualization}
     \resumeSubItem{\textbf{Other Skills:} \ Social Media Handling, Digital Marketing, IT Support, System Administration, Video Editing, Canva, Public Speaking, Time Management}
 \resumeSubHeadingListEnd
