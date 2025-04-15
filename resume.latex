@@ -119,7 +119,7 @@
         \resumeItem{Created a machine learning model using regression techniques to predict future sea levels based on NOAA data.}
         \resumeItem{Visualized trends using Matplotlib and Pandas to support climate awareness and data-driven insights.}
     \resumeItemListEnd
-        \resumeSubheading{Student Performance Predictor}{Machine Learning Project}{GitHub: \href{https://github.com/Amul-byte/StudentPerformancePrediction}{Amul-byte/Student-Performance-Predictor}}{2025}
+        \resumeSubheading{Student Performance Predictor}{Data Analysis Project}{GitHub: \href{https://github.com/Amul-byte/StudentPerformancePrediction}{Amul-byte/Student-Performance-Predictor}}{2025}
     \resumeItemListStart
         \resumeItem{Built a classification model to predict students' final grades based on socioeconomic and academic attributes.}
         \resumeItem{Performed feature engineering, model training, and evaluation using scikit-learn and visualized results with Matplotlib.}
