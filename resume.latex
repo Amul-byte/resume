@@ -45,7 +45,7 @@
 \newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
 \renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
 
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]} 
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
 \newcommand{\resumeItemListStart}{\begin{itemize}}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
@@ -59,12 +59,12 @@
     {{\fontsize{18pt}{22pt} \selectfont \textbf{Amul Poudel}}} \\[3pt]
     \small
     \begin{tabular}{c}
-        San Marcos, TX $|$
+        \faMapMarker\ San Marcos, TX $|$
         \faGithub\ \href{https://github.com/Amul-byte}{Amul-byte} $|$
-        \faGlobe\ \href{https://amulpoudel.vercel.app/}{Portfolio} $|$
+        \faGlobe\ \href{https://amulpoudel.vercel.app/}{amulpoudel.com.np} $|$
         \faLinkedin\ \href{https://www.linkedin.com/in/amulpoudel/}{amulpoudel} $|$
         \faEnvelope\ \href{mailto:pramulchettri@gmail.com}{pramulchettri@gmail.com} $|$
-         +1 (737) 335 9440
+        \faMobile\ +1 (737) 335 9440
     \end{tabular}
 \end{center}
 
@@ -77,7 +77,7 @@
 %----------- SKILLS -----------
 \section{Skills}
 \resumeSubHeadingListStart
-    \resumeSubItem{\textbf{Languages:} \ HTML, CSS, Python, C/C++}
+    \resumeSubItem{\textbf{Languages:} \ Python, HTML, CSS, C/C++}
     \resumeSubItem{\textbf{Frameworks \& Tools:} \ Django, Git, GitHub, Linux, WordPress, Pandas, Matplotlib, Scikit-Learn, NumPy}
     \resumeSubItem{\textbf{Data Science / ML:} \ Machine Learning, Data Cleaning, Exploratory Data Analysis, Regression Analysis, Model Evaluation, \newline Data Visualization}
     \resumeSubItem{\textbf{Other Skills:} \ Social Media Handling, Digital Marketing, IT Support, System Administration, Video Editing, Canva, Public Speaking, Time Management}
@@ -108,29 +108,34 @@
 %----------- PROJECTS -----------
 \section{Projects}
 \resumeSubHeadingListStart
-    \resumeSubheading{Experano - Experience Sharing Platform}{Web Application}{GitHub: \href{https://experano.vercel.app/}{experano.vercel.app}}{2025}
+
+    % New: ResQMe
+    \resumeSubheading{ResQMe — AI-Powered Emergency Response Platform}{Hackathon Project}{Award: SerpApi Community Engagement Winner (\$3{,}000), RiverHacks 2025, {GitHub: \href{https://github.com/gauravfs-14/ResQMe}{ResQMe}}}{2025}
     \resumeItemListStart
-        \resumeItem{Built a full-stack experience-sharing web platform enabling users to post, view, and search categorized experiences.}
-        \resumeItem{Used modern web technologies like React, Node.js, and Firebase for frontend, backend, and authentication.}
+        \resumeItem{Co-built an AI platform to streamline emergency reporting and response guidance, focusing on rapid triage and user safety.}
+        \resumeItem{Collaborated in a multi-disciplinary team; earned top recognition for community impact and practical utility.}
     \resumeItemListEnd
 
-    \resumeSubheading{Sea Level Predictor}{Data Analysis Project}{GitHub: \href{https://github.com/Amul-byte/sea-level-predictor-using-pyhton-libraries}{Amul-byte/sea-level-predictor}}{2025}
+    % New: Hand Sign Detection
+    \resumeSubheading{Hand Sign Detection (ASL A–Z)}{Computer Vision \& Web Application}{Live: \href{https://amulpoudel.streamlit.app/}{amulpoudel.streamlit.app}}{2025}
     \resumeItemListStart
-        \resumeItem{Created a machine learning model using regression techniques to predict future sea levels based on NOAA data.}
-        \resumeItem{Visualized trends using Matplotlib and Pandas to support climate awareness and data-driven insights.}
+        \resumeItem{Implemented real-time alphabet hand-sign recognition using TensorFlow, OpenCV, and \texttt{cvzone}; supports webcam inference.}
+        \resumeItem{Built a responsive Streamlit UI with \texttt{streamlit-webrtc} for low-latency video streaming and seamless user interaction.}
     \resumeItemListEnd
-        \resumeSubheading{Student Performance Predictor}{Machine Learning Project}{GitHub: \href{https://github.com/Amul-byte/StudentPerformancePrediction}{Amul-byte/Student-Performance-Predictor}}{2025}
+
+    % New: Interactive Dashboard
+    \resumeSubheading{Interactive Census Analytics Dashboard}{Data Visualization Dashboard}{Live: \href{https://dashboard-census.streamlit.app/}{dashboard-census.streamlit.app}}{2025}
     \resumeItemListStart
-        \resumeItem{Built a classification model to predict students' final grades based on socioeconomic and academic attributes.}
-        \resumeItem{Performed feature engineering, model training, and evaluation using scikit-learn and visualized results with Matplotlib.}
+        \resumeItem{Developed an interactive geospatial dashboard in Plotly Express and Streamlit to explore regional population and literacy\\ trends.}
+        \noindent\resumeItem{Added filtering, drill-down tooltips, and map-based visualizations to enable quick, data-driven insights.}
     \resumeItemListEnd
+
 \resumeSubHeadingListEnd
-
 
 %----------- HONORS & AWARDS -----------
 \section{Honors \& Awards}
 \resumeSubHeadingListStart
-    \resumeSubheading{Dean's List - Texas State University}{San Marcos, TX}{Awarded for Academic Excellence (4.0 GPA)}{2024 -- Present}
+    \resumeSubheading{Dean's List - Texas State University}{San Marcos, TX}{Awarded for Academic Excellence (4.0 GPA) $\cdot$ Fall 2024, and Spring 2025}{2024 -- Present}
     \resumeItemListStart
         \resumeItem{Recognized for maintaining a \textbf{4.0 GPA}, demonstrating exceptional academic performance and dedication.}
         \resumeItem{Achieved \textbf{Dean's List distinction} by excelling in coursework and consistently ranking among the top students.}
@@ -138,9 +143,9 @@
 \resumeSubHeadingListEnd
 
 %----------- LANGUAGES -----------
-\section{Languages}
-\resumeSubHeadingListStart
-    \resumeSubItem{English (Fluent), Nepali (Native), Hindi (Fluent)}
-\resumeSubHeadingListEnd
+% \section{Languages}
+% \resumeSubHeadingListStart
+%     \resumeSubItem{English (Fluent), Nepali (Native), Hindi (Fluent)}
+% \resumeSubHeadingListEnd
 
 \end{document}
